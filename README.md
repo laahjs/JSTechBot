@@ -50,3 +50,26 @@ Esse prompt define a personalidade do JSTechBot: técnico, direto, prestativo.
 
 🧑 Você: Qual o modelo de cartucho dessa impressora?  
 🤖 JSTechBot: HP 667 Preto e HP 667 Tricolor
+
+---
+
+## 📌 Estrutura do Código
+
+conversa: lista que armazena o histórico (pergunta e resposta)
+perguntar_ao_bot(pergunta): função que envia o prompt com histórico pro Gemini
+generate_content(): método principal da API Gemini para gerar respostas
+
+## 🔮 Próximos Passos
+
+Criar uma interface web responsiva
+Armazenar as conversas em banco de dados
+Integrar com Telegram/WhatsApp
+Adicionar imagens e vídeos nos retornos do bot
+
+## 🙌 Contribuições
+
+Contribuições são super bem-vindas! Se você é da área de manutenção ou IA, bora evoluir esse projeto juntas(os).
+
+## 🧑‍💻 Feito por
+Laís Máximo💻✨
+Aluna de Análise e Desenvolvimento de Sistemas | Criadora do JSTechBot

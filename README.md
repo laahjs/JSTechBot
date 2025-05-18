@@ -53,7 +53,7 @@ Esse prompt define a personalidade do JSTechBot: técnico, direto, prestativo.
  ```
 ---
 
-📌 Estrutura do Código
+## 📌 Estrutura do Código
 
 conversa: lista que armazena o histórico (pergunta e resposta)
 
@@ -63,7 +63,7 @@ generate_content(): método principal da API Gemini para gerar respostas
 
 ---
 
-🔮 Próximos Passos
+## 🔮 Próximos Passos
 
 Criar uma interface web responsiva
 
@@ -75,12 +75,12 @@ Adicionar imagens e vídeos nos retornos do bot
 
 ---
 
-🙌 Contribuições
+## 🙌 Contribuições
 
 Contribuições são super bem-vindas! Se você é da área de manutenção ou IA, bora evoluir esse projeto juntas(os).
 
 ---
 
-🧑‍💻 Feito por
+## 🧑‍💻 Feito por
 Laís Máximo💻✨
 Aluna de Análise e Desenvolvimento de Sistemas | Criadora do JSTechBot
